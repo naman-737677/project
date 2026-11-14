@@ -1,0 +1,17 @@
+{
+  "name": "telegram-fullstack",
+  "version": "1.0.0",
+  "description": "Full-stack real-time Telegram clone with Node.js/TypeScript backend and React/Vite frontend",
+  "scripts": {
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm run build:server && npm run build:client",
+    "build:server": "npm --prefix server run build",
+    "build:client": "npm --prefix client run build",
+    "test:server": "npm --prefix server run test",
+    "test:2fa": "npm --prefix server run test:2fa",
+    "test:stored-chats": "npm --prefix server run test:stored-chats",
+    "test:scrolling": "npm --prefix server run test:scrolling",
+    "test:audio": "npx tsx server/test/audio_streaming.test.ts"
+  }
+}

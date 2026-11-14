@@ -1,0 +1,36 @@
+{
+  "name": "telegram-backend",
+  "version": "1.0.0",
+  "description": "Production-grade scalable real-time messaging backend",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx watch src/index.ts",
+    "test": "tsx test/index.test.ts",
+    "test:2fa": "tsx test/auth-2fa.test.ts",
+    "test:stored-chats": "tsx test/stored_chats.test.ts",
+    "test:scrolling": "tsx test/chat_scrolling.test.ts",
+    "test:call": "tsx test/call_signaling.test.ts",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.4.0",
+    "@types/qrcode": "^1.5.6",
+    "dotenv": "^16.4.7",
+    "ioredis": "^5.6.0",
+    "jsonwebtoken": "^9.0.2",
+    "qrcode": "^1.5.4",
+    "ws": "^8.18.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.9",
+    "@types/node": "^22.13.5",
+    "@types/ws": "^8.5.14",
+    "prisma": "^6.4.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}

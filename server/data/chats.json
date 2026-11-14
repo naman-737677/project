@@ -1,0 +1,236 @@
+{
+  "chats": [
+    {
+      "id": "99999999-9999-4999-8999-999999999999",
+      "type": "GROUP",
+      "title": "🚀 Telegram Core Team",
+      "currentSeqId": "1",
+      "createdAt": "2026-11-11T18:44:57.848Z"
+    },
+    {
+      "id": "88888888-8888-4888-8888-888888888888",
+      "type": "GROUP",
+      "title": "💬 General Lounge",
+      "currentSeqId": "1",
+      "createdAt": "2026-11-11T18:44:57.848Z"
+    },
+    {
+      "id": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "title": "Chat #3cd85f",
+      "type": "GROUP",
+      "currentSeqId": "21",
+      "createdAt": "2026-11-11T18:47:20.588Z"
+    },
+    {
+      "id": "db8a369a-6572-45c2-a79c-923539c13b73",
+      "title": "Chat #db8a36",
+      "type": "GROUP",
+      "currentSeqId": "1",
+      "createdAt": "2026-11-11T18:54:15.434Z"
+    },
+    {
+      "id": "d4d262d7-3c34-4c9b-a1a7-d309480043b3",
+      "title": "Chat #d4d262",
+      "type": "GROUP",
+      "currentSeqId": "1",
+      "createdAt": "2026-11-11T18:54:34.197Z"
+    },
+    {
+      "id": "99e0b722-7d21-40c5-aca4-f23f2f5b9720",
+      "title": "satyam",
+      "type": "DIRECT",
+      "currentSeqId": "3",
+      "createdAt": "2026-11-11T19:10:12.906Z"
+    },
+    {
+      "id": "317b5056-0e91-4c40-a420-2439b0817f78",
+      "title": "Chat #317b50",
+      "type": "GROUP",
+      "currentSeqId": "0",
+      "createdAt": "2026-11-11T19:10:45.381Z"
+    },
+    {
+      "id": "test-chat-1794424457582",
+      "title": "Stored History Test Chat",
+      "type": "GROUP",
+      "currentSeqId": "0",
+      "createdAt": "2026-11-11T19:14:17.582Z"
+    },
+    {
+      "id": "test-chat-1794553697047",
+      "title": "Stored History Test Chat",
+      "type": "GROUP",
+      "currentSeqId": "0",
+      "createdAt": "2026-11-13T07:08:17.047Z"
+    },
+    {
+      "id": "ac86d90b-20ac-451e-ae99-36e3520c7db6",
+      "title": "Chat #ac86d9",
+      "type": "GROUP",
+      "currentSeqId": "0",
+      "createdAt": "2026-11-13T07:12:35.367Z"
+    },
+    {
+      "id": "36a80585-25fa-46e0-af00-069cfe6bcca0",
+      "title": "prince",
+      "type": "DIRECT",
+      "currentSeqId": "0",
+      "createdAt": "2026-11-13T07:30:36.815Z"
+    }
+  ],
+  "participants": [
+    {
+      "chatId": "99999999-9999-4999-8999-999999999999",
+      "userId": "11111111-1111-4111-8111-111111111111",
+      "role": "OWNER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-11T18:44:57.848Z"
+    },
+    {
+      "chatId": "99999999-9999-4999-8999-999999999999",
+      "userId": "22222222-2222-4222-8222-222222222222",
+      "role": "MEMBER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-11T18:44:57.848Z"
+    },
+    {
+      "chatId": "99999999-9999-4999-8999-999999999999",
+      "userId": "33333333-3333-4333-8333-333333333333",
+      "role": "MEMBER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-11T18:44:57.848Z"
+    },
+    {
+      "chatId": "88888888-8888-4888-8888-888888888888",
+      "userId": "11111111-1111-4111-8111-111111111111",
+      "role": "OWNER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-11T18:44:57.848Z"
+    },
+    {
+      "chatId": "88888888-8888-4888-8888-888888888888",
+      "userId": "22222222-2222-4222-8222-222222222222",
+      "role": "MEMBER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-11T18:44:57.848Z"
+    },
+    {
+      "chatId": "88888888-8888-4888-8888-888888888888",
+      "userId": "33333333-3333-4333-8333-333333333333",
+      "role": "MEMBER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-11T18:44:57.848Z"
+    },
+    {
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "userId": "11111111-1111-4111-8111-111111111111",
+      "role": "MEMBER",
+      "lastReadSeqId": "12",
+      "lastReadAt": "2026-11-14T07:34:21.870Z"
+    },
+    {
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "userId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "role": "MEMBER",
+      "lastReadSeqId": "9",
+      "lastReadAt": "2026-11-13T07:00:37.470Z"
+    },
+    {
+      "chatId": "db8a369a-6572-45c2-a79c-923539c13b73",
+      "userId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "role": "MEMBER",
+      "lastReadSeqId": "1",
+      "lastReadAt": "2026-11-11T18:58:17.861Z"
+    },
+    {
+      "chatId": "d4d262d7-3c34-4c9b-a1a7-d309480043b3",
+      "userId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "role": "MEMBER",
+      "lastReadSeqId": "1",
+      "lastReadAt": "2026-11-11T19:09:20.793Z"
+    },
+    {
+      "chatId": "99999999-9999-4999-8999-999999999999",
+      "userId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "role": "MEMBER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-11T19:01:52.658Z"
+    },
+    {
+      "chatId": "99999999-9999-4999-8999-999999999999",
+      "userId": "60988b8a-6cd0-4406-8807-ba7dc267bee0",
+      "role": "MEMBER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-11T19:08:53.941Z"
+    },
+    {
+      "chatId": "d4d262d7-3c34-4c9b-a1a7-d309480043b3",
+      "userId": "60988b8a-6cd0-4406-8807-ba7dc267bee0",
+      "role": "MEMBER",
+      "lastReadSeqId": "1",
+      "lastReadAt": "2026-11-14T07:21:56.270Z"
+    },
+    {
+      "chatId": "99e0b722-7d21-40c5-aca4-f23f2f5b9720",
+      "userId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "role": "MEMBER",
+      "lastReadSeqId": "3",
+      "lastReadAt": "2026-11-12T10:58:14.158Z"
+    },
+    {
+      "chatId": "99e0b722-7d21-40c5-aca4-f23f2f5b9720",
+      "userId": "e7e7d2f9-79fc-4e44-92a8-30043bbc0cd2",
+      "role": "MEMBER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-11T19:10:12.909Z"
+    },
+    {
+      "chatId": "99999999-9999-4999-8999-999999999999",
+      "userId": "e7e7d2f9-79fc-4e44-92a8-30043bbc0cd2",
+      "role": "MEMBER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-11T19:10:45.340Z"
+    },
+    {
+      "chatId": "317b5056-0e91-4c40-a420-2439b0817f78",
+      "userId": "e7e7d2f9-79fc-4e44-92a8-30043bbc0cd2",
+      "role": "MEMBER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-11T19:10:45.383Z"
+    },
+    {
+      "chatId": "ac86d90b-20ac-451e-ae99-36e3520c7db6",
+      "userId": "22222222-2222-4222-8222-222222222222",
+      "role": "MEMBER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-13T07:12:35.369Z"
+    },
+    {
+      "chatId": "36a80585-25fa-46e0-af00-069cfe6bcca0",
+      "userId": "11111111-1111-4111-8111-111111111111",
+      "role": "MEMBER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-13T07:30:36.819Z"
+    },
+    {
+      "chatId": "36a80585-25fa-46e0-af00-069cfe6bcca0",
+      "userId": "77925183-0765-4a7d-b036-33b4451d551f",
+      "role": "MEMBER",
+      "lastReadSeqId": "0",
+      "lastReadAt": "2026-11-13T07:30:36.822Z"
+    }
+  ],
+  "chatSeqs": {
+    "99999999-9999-4999-8999-999999999999": "1",
+    "88888888-8888-4888-8888-888888888888": "1",
+    "3cd85f96-8b66-48c3-a4fe-2c5558443597": "21",
+    "db8a369a-6572-45c2-a79c-923539c13b73": "1",
+    "d4d262d7-3c34-4c9b-a1a7-d309480043b3": "1",
+    "99e0b722-7d21-40c5-aca4-f23f2f5b9720": "3",
+    "317b5056-0e91-4c40-a420-2439b0817f78": "0",
+    "test-chat-1794424457582": "0",
+    "test-chat-1794553697047": "0",
+    "ac86d90b-20ac-451e-ae99-36e3520c7db6": "0",
+    "36a80585-25fa-46e0-af00-069cfe6bcca0": "0"
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "99999999-9999-4999-8999-999999999999": [
+    {
+      "id": "712a4ee7-7730-4e3c-9e9b-c08375ba2fca",
+      "chatId": "99999999-9999-4999-8999-999999999999",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "1",
+      "clientMsgId": "welcome_99999999",
+      "type": "TEXT",
+      "content": "Welcome to the real-time cluster! Scalable WebSocket & E2EE engine is active.",
+      "attachments": [],
+      "createdAt": "2026-11-11T17:44:57.848Z"
+    }
+  ],
+  "88888888-8888-4888-8888-888888888888": [
+    {
+      "id": "cbf537c0-d801-48ad-92c7-0560b20532fe",
+      "chatId": "88888888-8888-4888-8888-888888888888",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "1",
+      "clientMsgId": "welcome_88888888",
+      "type": "TEXT",
+      "content": "High-throughput WebSocket messaging is active. Type here to test live fan-out!",
+      "attachments": [],
+      "createdAt": "2026-11-11T17:44:57.848Z"
+    }
+  ],
+  "3cd85f96-8b66-48c3-a4fe-2c5558443597": [
+    {
+      "id": "8ff900f7-68a9-45d0-9e81-0ec7cef4d134",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "1",
+      "clientMsgId": "cmsg_1794424349855_y0bxk",
+      "type": "TEXT",
+      "content": "hllbjh",
+      "attachments": [],
+      "createdAt": "2026-11-11T19:12:29.856Z"
+    },
+    {
+      "id": "fe1c6060-3d66-4cc3-9236-ccdd59a0dbe2",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "2",
+      "clientMsgId": "cmsg_1794424376635_xxk64",
+      "type": "FILE",
+      "content": null,
+      "attachments": [
+        {
+          "id": "b32fc09f-71be-4362-88b0-9a06ff706e68",
+          "fileUrl": "/api/files/1794424376609_d662a0bc9f0c_Ecosystem.pdf",
+          "thumbnailUrl": null,
+          "fileName": "Ecosystem.pdf",
+          "fileSize": "3125842",
+          "mimeType": "application/pdf"
+        }
+      ],
+      "createdAt": "2026-11-11T19:12:56.640Z"
+    },
+    {
+      "id": "6301edd1-e7cf-47c3-964e-d52c589d4774",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "3",
+      "clientMsgId": "cmsg_1794479810498_s7zf6",
+      "type": "TEXT",
+      "content": "hello professor",
+      "attachments": [],
+      "createdAt": "2026-11-12T10:36:50.500Z"
+    },
+    {
+      "id": "f490ccb7-5e72-447e-88d1-318a5770a64c",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "4",
+      "clientMsgId": "cmsg_1794480506551_i38hy",
+      "type": "IMAGE",
+      "content": null,
+      "attachments": [
+        {
+          "id": "772db051-9eb7-480b-99da-666e76d150bc",
+          "fileUrl": "/api/files/1794480506536_aaeede9615f4_Screenshot_2026-11-05_221220.png",
+          "thumbnailUrl": "/api/files/1794480506536_aaeede9615f4_Screenshot_2026-11-05_221220.png",
+          "fileName": "Screenshot 2026-11-05 221220.png",
+          "fileSize": "158941",
+          "mimeType": "image/png"
+        }
+      ],
+      "createdAt": "2026-11-12T10:48:26.555Z"
+    },
+    {
+      "id": "30a8b96b-d04b-46d6-92c8-d87ce94b03e7",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "5",
+      "clientMsgId": "cmsg_1794480889213_bs8pc",
+      "type": "AUDIO",
+      "content": null,
+      "attachments": [
+        {
+          "id": "a9ff6503-4f78-49f0-8c9e-28b642fa8ae3",
+          "fileUrl": "/api/files/1794480889199_90c3423297eb_voice_1794480889171.webm",
+          "thumbnailUrl": null,
+          "fileName": "voice_1794480889171.webm",
+          "fileSize": "104703",
+          "mimeType": "audio/webm;codecs=opus"
+        }
+      ],
+      "createdAt": "2026-11-12T10:54:49.221Z"
+    },
+    {
+      "id": "451ed319-c79d-4523-a292-6e456e7fa341",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "6",
+      "clientMsgId": "cmsg_1794480935509_bei1d",
+      "type": "AUDIO",
+      "content": null,
+      "attachments": [
+        {
+          "id": "31c2f498-251e-43cc-b0d3-6d60157c652c",
+          "fileUrl": "/api/files/1794480935493_0ecd460b4822_voice_1794480935470.webm",
+          "thumbnailUrl": null,
+          "fileName": "voice_1794480935470.webm",
+          "fileSize": "2079",
+          "mimeType": "audio/webm;codecs=opus"
+        }
+      ],
+      "createdAt": "2026-11-12T10:55:35.512Z"
+    },
+    {
+      "id": "f0b1745b-7d98-45cb-aa07-b2ad3c0bf6a0",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "7",
+      "clientMsgId": "cmsg_1794481036341_x2qkx",
+      "type": "TEXT",
+      "content": "😘😌😔",
+      "attachments": [],
+      "createdAt": "2026-11-12T10:57:16.344Z"
+    },
+    {
+      "id": "2fac04ef-6fc2-4695-a3bb-5c13a1a3a4e6",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "seqId": "8",
+      "clientMsgId": "cmsg_1794482039009_3opgv",
+      "type": "AUDIO",
+      "content": null,
+      "attachments": [
+        {
+          "id": "b4d6dbb2-d391-4289-b553-4681114b2581",
+          "fileUrl": "/api/files/1794482038991_fd5c220e53f7_voice_1794482038960.webm",
+          "thumbnailUrl": null,
+          "fileName": "voice_1794482038960.webm",
+          "fileSize": "2989",
+          "mimeType": "audio/webm;codecs=opus"
+        }
+      ],
+      "createdAt": "2026-11-12T11:13:59.018Z"
+    },
+    {
+      "id": "f4a103cd-a682-45a7-8366-eb467741db2c",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "seqId": "9",
+      "clientMsgId": "cmsg_1794482193428_6oitj",
+      "type": "AUDIO",
+      "content": null,
+      "attachments": [
+        {
+          "id": "76fca3ec-8c91-47b6-a65c-a05cb2a96cd7",
+          "fileUrl": "/api/files/1794482193388_f2df595d0282_voice_1794482193346.webm",
+          "thumbnailUrl": null,
+          "fileName": "voice_1794482193346.webm",
+          "fileSize": "3399",
+          "mimeType": "audio/webm;codecs=opus"
+        }
+      ],
+      "createdAt": "2026-11-12T11:16:33.431Z"
+    },
+    {
+      "id": "5d08ac61-ea81-4ee4-b1ce-cecb781bf3a6",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "10",
+      "clientMsgId": "cmsg_1794554922040_fno0k",
+      "type": "TEXT",
+      "content": "or bhai kya hal chal ha i",
+      "attachments": [],
+      "createdAt": "2026-11-13T07:28:42.046Z"
+    },
+    {
+      "id": "223aaa42-1851-4d16-b02b-661bf1c62886",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "11",
+      "clientMsgId": "cmsg_1794556159479_phv2r",
+      "type": "FILE",
+      "content": null,
+      "attachments": [
+        {
+          "id": "77f6933a-ccf0-4397-8322-8a23ae242c53",
+          "fileUrl": "/api/files/1794556159449_3447f9cce436_iesc109.pdf",
+          "thumbnailUrl": null,
+          "fileName": "iesc109.pdf",
+          "fileSize": "6766201",
+          "mimeType": "application/pdf"
+        }
+      ],
+      "createdAt": "2026-11-13T07:49:19.483Z"
+    },
+    {
+      "id": "094d2e7a-8f1d-417c-8fd9-87689430ab32",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "12",
+      "clientMsgId": "cmsg_1794641156765_p7hzp",
+      "type": "TEXT",
+      "content": "😗🤑",
+      "attachments": [],
+      "createdAt": "2026-11-14T07:25:56.769Z"
+    },
+    {
+      "id": "8d787d2c-5ad4-4ee1-a2e0-44c58b4d65b8",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "seqId": "13",
+      "clientMsgId": "cmsg_1794642324590_xw558",
+      "type": "TEXT",
+      "content": "📞 Call ended (00:21)",
+      "attachments": [],
+      "createdAt": "2026-11-14T07:45:24.593Z"
+    },
+    {
+      "id": "ee835bcd-f458-46e5-916d-089288a604c9",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "14",
+      "clientMsgId": "cmsg_1794642324906_rxafu",
+      "type": "TEXT",
+      "content": "📞 Call ended (00:22)",
+      "attachments": [],
+      "createdAt": "2026-11-14T07:45:24.908Z"
+    },
+    {
+      "id": "219741e7-b677-461b-8287-756e5067135e",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "15",
+      "clientMsgId": "cmsg_1794642324934_cs09r",
+      "type": "TEXT",
+      "content": "📞 Call ended (00:22)",
+      "attachments": [],
+      "createdAt": "2026-11-14T07:45:24.936Z"
+    },
+    {
+      "id": "4289607d-2a84-4df9-beb7-bad3edd26ca0",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "16",
+      "clientMsgId": "cmsg_1794642365445_8okrd",
+      "type": "TEXT",
+      "content": "📞 Call ended (00:32)",
+      "attachments": [],
+      "createdAt": "2026-11-14T07:46:05.447Z"
+    },
+    {
+      "id": "8d219501-53cd-4e15-8808-2e2250d26a6e",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "seqId": "17",
+      "clientMsgId": "cmsg_1794642365753_i8nj1",
+      "type": "TEXT",
+      "content": "📞 Call ended (00:32)",
+      "attachments": [],
+      "createdAt": "2026-11-14T07:46:05.755Z"
+    },
+    {
+      "id": "8d9b6120-7e5b-4983-8bd8-f49d9df03b3a",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "seqId": "18",
+      "clientMsgId": "cmsg_1794642402438_21nto",
+      "type": "TEXT",
+      "content": "📞 Call ended (00:29)",
+      "attachments": [],
+      "createdAt": "2026-11-14T07:46:42.440Z"
+    },
+    {
+      "id": "79cf94a0-49b6-4717-a81f-15dc87fea225",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "19",
+      "clientMsgId": "cmsg_1794642402771_81my6",
+      "type": "TEXT",
+      "content": "📞 Call ended (00:29)",
+      "attachments": [],
+      "createdAt": "2026-11-14T07:46:42.774Z"
+    },
+    {
+      "id": "caab4601-2a08-4b56-b41e-ff4420954ef7",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "20",
+      "clientMsgId": "cmsg_1794642402771_b7xgc",
+      "type": "TEXT",
+      "content": "📞 Call ended (00:29)",
+      "attachments": [],
+      "createdAt": "2026-11-14T07:46:42.779Z"
+    },
+    {
+      "id": "35b1d474-f2ba-4e09-b876-d997fb202d86",
+      "chatId": "3cd85f96-8b66-48c3-a4fe-2c5558443597",
+      "senderId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "seqId": "21",
+      "clientMsgId": "cmsg_1794643007100_e464z",
+      "type": "TEXT",
+      "content": "hrhhcxghxgc",
+      "attachments": [],
+      "createdAt": "2026-11-14T07:56:47.102Z"
+    }
+  ],
+  "db8a369a-6572-45c2-a79c-923539c13b73": [
+    {
+      "id": "e5ba377a-5f5b-45d4-aa71-2e437349984e",
+      "chatId": "db8a369a-6572-45c2-a79c-923539c13b73",
+      "senderId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "seqId": "1",
+      "clientMsgId": "cmsg_1794423270623_2e469",
+      "type": "TEXT",
+      "content": "200",
+      "attachments": [],
+      "createdAt": "2026-11-11T18:54:30.626Z"
+    }
+  ],
+  "d4d262d7-3c34-4c9b-a1a7-d309480043b3": [
+    {
+      "id": "83f23868-8216-4702-8ff1-59ec056e6a42",
+      "chatId": "d4d262d7-3c34-4c9b-a1a7-d309480043b3",
+      "senderId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "seqId": "1",
+      "clientMsgId": "cmsg_1794424096910_r0x4h",
+      "type": "TEXT",
+      "content": "hello",
+      "attachments": [],
+      "createdAt": "2026-11-11T19:08:16.913Z"
+    }
+  ],
+  "99e0b722-7d21-40c5-aca4-f23f2f5b9720": [
+    {
+      "id": "7f42e4fb-1c87-4eef-b686-26ce1bb470b1",
+      "chatId": "99e0b722-7d21-40c5-aca4-f23f2f5b9720",
+      "senderId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "seqId": "1",
+      "clientMsgId": "cmsg_1794424218982_c3x2c",
+      "type": "TEXT",
+      "content": "or bsdk",
+      "attachments": [],
+      "createdAt": "2026-11-11T19:10:18.984Z"
+    },
+    {
+      "id": "a4c1f418-4d88-4c72-84a4-af9c9d410880",
+      "chatId": "99e0b722-7d21-40c5-aca4-f23f2f5b9720",
+      "senderId": "e7e7d2f9-79fc-4e44-92a8-30043bbc0cd2",
+      "seqId": "2",
+      "clientMsgId": "cmsg_1794424253029_4ga4p",
+      "type": "TEXT",
+      "content": "ha bol mc",
+      "attachments": [],
+      "createdAt": "2026-11-11T19:10:53.030Z"
+    },
+    {
+      "id": "0e1489be-0e84-46e7-a3cb-7bfcb20d9a1a",
+      "chatId": "99e0b722-7d21-40c5-aca4-f23f2f5b9720",
+      "senderId": "ff2c60f5-2c01-4694-8916-6dec02dbcbab",
+      "seqId": "3",
+      "clientMsgId": "cmsg_1794479756092_oqw27",
+      "type": "TEXT",
+      "content": "or mc",
+      "attachments": [],
+      "createdAt": "2026-11-12T10:35:56.096Z"
+    }
+  ],
+  "317b5056-0e91-4c40-a420-2439b0817f78": [],
+  "test-chat-1794424457582": [
+    {
+      "id": "508d93e1-26bc-4990-9e5d-2a2988a45e73",
+      "chatId": "test-chat-1794424457582",
+      "senderId": "test-user-1794424457582",
+      "seqId": "1",
+      "clientMsgId": "cmsg_1",
+      "type": "TEXT",
+      "content": "Hello, this is a saved message before logout!",
+      "attachments": [],
+      "createdAt": "2026-11-11T19:14:21.671Z"
+    },
+    {
+      "id": "918ba823-bea0-487b-8937-80e74c65d115",
+      "chatId": "test-chat-1794424457582",
+      "senderId": "friend-user-999",
+      "seqId": "2",
+      "clientMsgId": "cmsg_2",
+      "type": "TEXT",
+      "content": "This message should also be retained.",
+      "attachments": [],
+      "createdAt": "2026-11-11T19:14:21.673Z"
+    }
+  ],
+  "test-chat-1794553697047": [
+    {
+      "id": "0e1c77a0-828a-4c9c-a246-6b759ad9a473",
+      "chatId": "test-chat-1794553697047",
+      "senderId": "test-user-1794553697047",
+      "seqId": "1",
+      "clientMsgId": "cmsg_1",
+      "type": "TEXT",
+      "content": "Hello, this is a saved message before logout!",
+      "attachments": [],
+      "createdAt": "2026-11-13T07:08:17.086Z"
+    },
+    {
+      "id": "b3d6db4d-4ed7-4adb-99d2-1fd1262d644e",
+      "chatId": "test-chat-1794553697047",
+      "senderId": "friend-user-999",
+      "seqId": "2",
+      "clientMsgId": "cmsg_2",
+      "type": "TEXT",
+      "content": "This message should also be retained.",
+      "attachments": [],
+      "createdAt": "2026-11-13T07:08:17.090Z"
+    }
+  ],
+  "36a80585-25fa-46e0-af00-069cfe6bcca0": []
+}

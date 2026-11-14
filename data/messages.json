@@ -1,0 +1,142 @@
+{
+  "99999999-9999-4999-8999-999999999999": [
+    {
+      "id": "6a975c14-95c0-4bc6-abaf-fac92a4bfc78",
+      "chatId": "99999999-9999-4999-8999-999999999999",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "1",
+      "clientMsgId": "welcome_99999999",
+      "type": "TEXT",
+      "content": "Welcome to the real-time cluster! Scalable WebSocket & E2EE engine is active.",
+      "attachments": [],
+      "createdAt": "2026-11-12T10:13:49.752Z"
+    }
+  ],
+  "88888888-8888-4888-8888-888888888888": [
+    {
+      "id": "8b11b541-53b1-4087-adf7-384289ddd1b1",
+      "chatId": "88888888-8888-4888-8888-888888888888",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "1",
+      "clientMsgId": "welcome_88888888",
+      "type": "TEXT",
+      "content": "High-throughput WebSocket messaging is active. Type here to test live fan-out!",
+      "attachments": [],
+      "createdAt": "2026-11-12T10:13:49.752Z"
+    }
+  ],
+  "test-chat-1794482030113": [
+    {
+      "id": "2104556e-7545-4b30-a80a-fcdc5de59f46",
+      "chatId": "test-chat-1794482030113",
+      "senderId": "test-user-1794482030113",
+      "seqId": "1",
+      "clientMsgId": "cmsg_1",
+      "type": "TEXT",
+      "content": "Hello, this is a saved message before logout!",
+      "attachments": [],
+      "createdAt": "2026-11-12T11:13:54.264Z"
+    },
+    {
+      "id": "414a098f-feb4-45c5-94f1-11ca16a4c115",
+      "chatId": "test-chat-1794482030113",
+      "senderId": "friend-user-999",
+      "seqId": "2",
+      "clientMsgId": "cmsg_2",
+      "type": "TEXT",
+      "content": "This message should also be retained.",
+      "attachments": [],
+      "createdAt": "2026-11-12T11:13:54.268Z"
+    }
+  ],
+  "scroll-chat-1794554918738": [
+    {
+      "id": "dfdf7dc3-fca1-4af3-ae02-a998b76aa852",
+      "chatId": "scroll-chat-1794554918738",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "1",
+      "clientMsgId": "scroll_msg_1",
+      "type": "TEXT",
+      "content": "Message #1 for scrolling test",
+      "attachments": [],
+      "createdAt": "2026-11-13T07:28:38.822Z"
+    },
+    {
+      "id": "43ddcb7a-b489-4cf0-bf9a-2e1bed44b410",
+      "chatId": "scroll-chat-1794554918738",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "2",
+      "clientMsgId": "scroll_msg_2",
+      "type": "TEXT",
+      "content": "Message #2 for scrolling test",
+      "attachments": [],
+      "createdAt": "2026-11-13T07:28:38.828Z"
+    },
+    {
+      "id": "1e65fe86-fcf5-42f6-8f60-43305922e6f1",
+      "chatId": "scroll-chat-1794554918738",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "3",
+      "clientMsgId": "scroll_msg_3",
+      "type": "TEXT",
+      "content": "Message #3 for scrolling test",
+      "attachments": [],
+      "createdAt": "2026-11-13T07:28:38.831Z"
+    },
+    {
+      "id": "2336103a-07ef-49cb-a83b-78ad2533508f",
+      "chatId": "scroll-chat-1794554918738",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "4",
+      "clientMsgId": "scroll_msg_4",
+      "type": "TEXT",
+      "content": "Message #4 for scrolling test",
+      "attachments": [],
+      "createdAt": "2026-11-13T07:28:38.834Z"
+    },
+    {
+      "id": "7c1a10f7-0c64-4e36-aa4c-443316a7ec30",
+      "chatId": "scroll-chat-1794554918738",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "5",
+      "clientMsgId": "scroll_msg_5",
+      "type": "TEXT",
+      "content": "Message #5 for scrolling test",
+      "attachments": [],
+      "createdAt": "2026-11-13T07:28:38.838Z"
+    },
+    {
+      "id": "163ccc7b-52a5-4afd-90cb-41cbd40cb81b",
+      "chatId": "scroll-chat-1794554918738",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "6",
+      "clientMsgId": "scroll_msg_6",
+      "type": "TEXT",
+      "content": "Message #6 for scrolling test",
+      "attachments": [],
+      "createdAt": "2026-11-13T07:28:38.841Z"
+    },
+    {
+      "id": "4a5fc494-5a93-42f5-9449-87a2e33a69bf",
+      "chatId": "scroll-chat-1794554918738",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "7",
+      "clientMsgId": "scroll_msg_7",
+      "type": "TEXT",
+      "content": "Message #7 for scrolling test",
+      "attachments": [],
+      "createdAt": "2026-11-13T07:28:38.844Z"
+    },
+    {
+      "id": "d383d358-a122-4183-a2e7-df333b95775d",
+      "chatId": "scroll-chat-1794554918738",
+      "senderId": "11111111-1111-4111-8111-111111111111",
+      "seqId": "8",
+      "clientMsgId": "scroll_msg_8",
+      "type": "TEXT",
+      "content": "Message #8 for scrolling test",
+      "attachments": [],
+      "createdAt": "2026-11-13T07:28:38.847Z"
+    }
+  ]
+}
